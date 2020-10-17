@@ -23,3 +23,4 @@ public class Main {
         System.out.print(count);
     }
 }
+//O(n)
